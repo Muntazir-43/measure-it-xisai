@@ -13,9 +13,9 @@ Camera calibration will correct lens distortion, and a trained segmentation mode
 
 ## Assessment Timing
 
-- Assessment started: 17 November 2026, 7:00 PM (PKT).
-- Planning and initial setup completed: 7:46 PM.
-- Submission deadline: 18 November 2026, 3:00 AM (PKT).
+- Assessment started: 18 November 2026, 11:00 AM (PKT).
+- Planning and initial setup completed: 11:46 AM.
+- Submission deadline: 18 November 2026, 7:00 PM (PKT).
 - Remaining implementation time at planning stage: 7 hours 14 minutes.
 
 2. Approach and technologies
